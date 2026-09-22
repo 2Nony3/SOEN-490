@@ -6,7 +6,7 @@ Task-scoped AI agents. Each agent reads the Brain, performs one business functio
 
 |Agent|Function| 
 | --- | --- |
-|Intake|Turns new-client sales conversations into structured client records|
+|Intake|Turns new-client sales conversations into client records|
 |Reporting|Generates performance reports|
 |Client communications|Drafts client-facing messages|
 |Scheduling / task tracking|Manages scheduling and task state|
