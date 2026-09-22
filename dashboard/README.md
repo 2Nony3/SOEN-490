@@ -6,7 +6,7 @@ The visibility and control layer for Operon, where humans see what the agents ar
 - An approval queue where every agent-generated draft waits for a named person to accept or reject before moving further
 - An audit log view: every generated artifact tied to its inputs and its approver
 
-### Design principles
+### Design
 - Nothing an agent produces takes effect without going through this approval flow
 - Every approval/rejection is logged
 - Access is role-based 
