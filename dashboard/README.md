@@ -9,4 +9,4 @@ The visibility and control layer for Operon, where humans see what the agents ar
 ### Design
 - Nothing an agent produces takes effect without going through this approval flow
 - Every approval/rejection is logged
-- Access is role-based 
+- Access is role-based
