@@ -12,7 +12,7 @@ Task-scoped AI agents. Each agent reads the Brain, performs one business functio
 |Scheduling / task tracking|Manages scheduling and task state|
 |Daily summary|Summarizes priority actions for the day|
 
-### Design principles (apply to every agent)
+### Design (applies to every agent)
 
 - Reads from the Brain — does not hold its own separate copy of context
 - Output is always a draft, tied to a named approver, logged in the audit trail
