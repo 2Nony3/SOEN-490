@@ -195,25 +195,32 @@ Follow the course requirements for acknowledging AI-assisted contributions.
 
 ---
 
+
 # Wiki Table of Contents
 
-The [Operon GitHub Wiki](https://github.com/2Nony3/SOEN-490/wiki) contains the project's detailed engineering, planning, and course documentation.
+The [Operon GitHub Wiki](https://github.com/2Nony3/SOEN-490/wiki) contains the project's technical documentation, planning records, and course deliverables.
 
-The README provides an overview of the project, while the wiki maintains the detailed technical information and development records.
-
-The wiki is organized into the following areas.
-
-| Category | Documentation |
+| # | Documentation |
 |---|---|
-| Project Management | Meeting Minutes, Iteration Planning, Retrospectives, Risk Management |
-| Requirements & Design | Personas, Architecture and Class Diagrams, Naming Conventions |
-| Engineering | Infrastructure and Tools, Testing and CI, Security, Performance |
-| Deployment | Deployment Strategy, Environment Configuration, Release Documentation |
-| Business & Governance | Economic Evaluation, Budget, Legal and Ethical Issues, User Consent / EULA |
-| Team Development | Missing Knowledge and Independent Learning |
-| Equity & Diversity | Diversity Statement and Project-Specific Considerations |
+| 01 | Meeting Minutes |
+| 02 | Risks |
+| 03 | User Consent and End-User License Agreement |
+| 04 | Legal and Ethical Issues |
+| 05 | Economic |
+| 06 | Budget |
+| 07 | Personas |
+| 08 | Mockups |
+| 09 | Diversity Statement |
+| 10 | Overall Architecture and Class Diagrams |
+| 11 | Infrastructure and Tools |
+| 12 | Naming Conventions |
+| 13 | Testing Plan and Continuous Integration |
+| 14 | Security |
+| 15 | Performance |
+| 16 | Deployment Plan and Infrastructure |
+| 17 | Missing Knowledge and Independent Learning |
 
-Individual links will be added as the corresponding wiki pages are created.
+Visit the [GitHub Wiki](https://github.com/2Nony3/SOEN-490/wiki) to access the individual pages.
 
 ---
 
